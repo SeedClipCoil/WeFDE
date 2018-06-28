@@ -1,0 +1,5 @@
+BayesMeasure: depreciate, only for closed world, equal prior probability experiment. Will be deleted after the new BayesMeasure is implemented. 
+
+OpenWorld: to be deleted. 
+
+BayesMeasure_NEW: newest version having prior as input. Combine closed world and open world experiment.

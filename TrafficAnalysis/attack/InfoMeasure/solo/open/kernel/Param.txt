@@ -1,0 +1,41 @@
+%%%%%%%% project info %%%%%%%%%%%%%%%%%%
+home_directory TrafficAnalysis/
+
+
+
+%%%%%%%% socket setup %%%%%%%%%%%%%%%%%%%%%5
+server_address localhost
+port_number 9900
+port_random 1 
+partition 1000000
+
+%%%%%%%%% parallel_parameter %%%%%%%%%%%%%
+debug_on 1
+debug_on_plenty 0 
+server_number 12 
+
+info_filename info.mat
+
+job_filename JobRecord
+job_size 2600 
+job_refresh_threshold 60
+epoch_time 60
+debug_data debug_data
+
+% server listening timeout 
+server_timeout 2400000
+
+%%%%%%%% openworld_parameter %%%%%%%%%%%%%%%%%
+mcarlo_num 10000
+prior_type Open_World_Zipf+ 
+monitor_dataset TrafficAnalysis/attack/InfoMeasure/DataMatrix/tamaraw_no_obfuscate/
+non_monitor_dataset ../dataset_open_world/non_monitored/0-500/
+reModel_krate 0.5
+selector 2
+#WTF_no_such_thing_like_discrete_give_a_very_large_value
+discrete_thres 10000000000
+##tamaraw
+#discrete_thres 1
+##buflo
+#discrete_thres -1
+
