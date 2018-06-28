@@ -1,0 +1,11 @@
+index for each experiment
+
+e1:	setting: closed-world (99 websites), equal prior, no defense
+	describe: measures all features' individual information leakage
+
+e2:	setting: closed-world (99 websites), equal prior, no defense
+	describe: measures the total information leakage, with topn features
+
+e3:	setting: closed-world (99 websites), equal prior, no defense
+	describe: measures category features' information leakage
+
