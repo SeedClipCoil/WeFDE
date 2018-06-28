@@ -1,0 +1,559 @@
+2017-03-21 13:08:52,829 - root - INFO - Starting AP simulation...
+2017-03-21 13:08:52,829 - root - INFO - Reading histograms from HistogramStats/bglist_0.1.txt
+2017-03-21 13:08:52,829 - root - DEBUG - Histogram tokens are: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4452, 2971, 1755, 617, 203, 90000, 0, 0, 0, 0, 0, 0, 0, 1934, 2301, 2045, 2316, 849, 369, 118, 64, 90000, 2015, 1900, 341, 254, 391, 652, 998, 1169, 1126, 1088, 61, 0, 0, 0, 0, 1811, 8463, 83, 154, 327, 430, 288, 204, 47, 0, 0, 0, 0, 0, 0, 0, 516]
+2017-03-21 13:08:52,830 - root - DEBUG - tokens:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4452, 2971, 1755, 617, 203, 90000]
+labels:[0, 0.00018310546875, 0.0003662109375, 0.000732421875, 0.00146484375, 0.0029296875, 0.005859375, 0.01171875, 0.0234375, 0.046875, 0.09375, 0.1875, 0.375, 0.75, 1.5, 3]/n
+2017-03-21 13:08:52,830 - root - INFO - chunk idx (0): [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4452, 2971, 1755, 617, 203, 90000]
+2017-03-21 13:08:52,830 - root - DEBUG - tokens:[0, 0, 0, 0, 0, 0, 0, 1934, 2301, 2045, 2316, 849, 369, 118, 64, 90000]
+labels:[0, 0.00018310546875, 0.0003662109375, 0.000732421875, 0.00146484375, 0.0029296875, 0.005859375, 0.01171875, 0.0234375, 0.046875, 0.09375, 0.1875, 0.375, 0.75, 1.5, 3]/n
+2017-03-21 13:08:52,830 - root - INFO - chunk idx (1): [0, 0, 0, 0, 0, 0, 0, 1934, 2301, 2045, 2316, 849, 369, 118, 64, 90000]
+2017-03-21 13:08:52,830 - root - DEBUG - tokens:[2015, 1900, 341, 254, 391, 652, 998, 1169, 1126, 1088, 61, 0, 0, 0, 0, 1811]
+labels:[0, 0.00018310546875, 0.0003662109375, 0.000732421875, 0.00146484375, 0.0029296875, 0.005859375, 0.01171875, 0.0234375, 0.046875, 0.09375, 0.1875, 0.375, 0.75, 1.5, 3]/n
+2017-03-21 13:08:52,830 - root - INFO - chunk idx (2): [2015, 1900, 341, 254, 391, 652, 998, 1169, 1126, 1088, 61, 0, 0, 0, 0, 1811]
+2017-03-21 13:08:52,830 - root - DEBUG - tokens:[8463, 83, 154, 327, 430, 288, 204, 47, 0, 0, 0, 0, 0, 0, 0, 516]
+labels:[0, 0.00018310546875, 0.0003662109375, 0.000732421875, 0.00146484375, 0.0029296875, 0.005859375, 0.01171875, 0.0234375, 0.046875, 0.09375, 0.1875, 0.375, 0.75, 1.5, 3]/n
+2017-03-21 13:08:52,830 - root - INFO - chunk idx (3): [8463, 83, 154, 327, 430, 288, 204, 47, 0, 0, 0, 0, 0, 0, 0, 516]
+2017-03-21 13:08:52,830 - root - DEBUG - tokens:[100]
+labels:[0]/n
+2017-03-21 13:08:52,830 - root - DEBUG - tokens:[100]
+labels:[0]/n
+2017-03-21 13:08:52,830 - root - DEBUG - tokens:[100]
+labels:[0]/n
+2017-03-21 13:08:52,830 - root - DEBUG - tokens:[100]
+labels:[0]/n
+2017-03-21 13:08:52,832 - root - DEBUG - processing packet with timestamp:0.0
+2017-03-21 13:08:52,832 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,832 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,832 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,832 - root - DEBUG - processing packet with timestamp:0.250518
+2017-03-21 13:08:52,833 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,833 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,833 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,833 - root - DEBUG - processing packet with timestamp:2.635513
+2017-03-21 13:08:52,833 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,833 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,833 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,833 - root - DEBUG - processing packet with timestamp:2.637036
+2017-03-21 13:08:52,833 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,833 - root - DEBUG - New expected iat sampled: 0.368945249336
+2017-03-21 13:08:52,833 - root - DEBUG - processing packet with timestamp:2.86397
+2017-03-21 13:08:52,833 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,833 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,833 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,833 - root - DEBUG - processing packet with timestamp:2.864662
+2017-03-21 13:08:52,833 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,833 - root - DEBUG - New expected iat sampled: 0.332597459133
+2017-03-21 13:08:52,834 - root - DEBUG - processing packet with timestamp:2.985274
+2017-03-21 13:08:52,834 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,834 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,834 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,834 - root - DEBUG - processing packet with timestamp:2.98592
+2017-03-21 13:08:52,834 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,834 - root - DEBUG - New expected iat sampled: 0.419152277458
+2017-03-21 13:08:52,834 - root - DEBUG - processing packet with timestamp:3.206853
+2017-03-21 13:08:52,834 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,834 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,834 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,834 - root - DEBUG - processing packet with timestamp:3.206853
+2017-03-21 13:08:52,834 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,834 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,834 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,834 - root - DEBUG - processing packet with timestamp:3.206853
+2017-03-21 13:08:52,834 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,834 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,834 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,835 - root - DEBUG - processing packet with timestamp:3.206853
+2017-03-21 13:08:52,835 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,835 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,835 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,835 - root - DEBUG - processing packet with timestamp:3.206853
+2017-03-21 13:08:52,835 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,835 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,835 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,835 - root - DEBUG - processing packet with timestamp:3.206853
+2017-03-21 13:08:52,835 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,835 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,835 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,835 - root - DEBUG - processing packet with timestamp:3.206853
+2017-03-21 13:08:52,835 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,835 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,835 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,835 - root - DEBUG - processing packet with timestamp:3.212969
+2017-03-21 13:08:52,835 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,835 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,836 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,836 - root - DEBUG - processing packet with timestamp:3.226528
+2017-03-21 13:08:52,836 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,836 - root - DEBUG - New expected iat sampled: 0.164862138373
+2017-03-21 13:08:52,836 - root - DEBUG - processing packet with timestamp:3.327709
+2017-03-21 13:08:52,836 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,836 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,836 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,836 - root - DEBUG - processing packet with timestamp:3.327709
+2017-03-21 13:08:52,836 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,836 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,836 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,836 - root - DEBUG - processing packet with timestamp:3.327709
+2017-03-21 13:08:52,836 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,836 - root - DEBUG - New expected iat sampled: 0.285854144314
+2017-03-21 13:08:52,836 - root - DEBUG - processing packet with timestamp:3.327709
+2017-03-21 13:08:52,836 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,836 - root - DEBUG - New expected iat sampled: 0.0455849388431
+2017-03-21 13:08:52,837 - root - DEBUG - processing packet with timestamp:3.327709
+2017-03-21 13:08:52,837 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,837 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,837 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,837 - root - DEBUG - processing packet with timestamp:3.327709
+2017-03-21 13:08:52,837 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,837 - root - DEBUG - New expected iat sampled: 1.27141045659
+2017-03-21 13:08:52,837 - root - DEBUG - processing packet with timestamp:3.327709
+2017-03-21 13:08:52,837 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,837 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,837 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,837 - root - DEBUG - processing packet with timestamp:3.332768
+2017-03-21 13:08:52,837 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,837 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,837 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,837 - root - DEBUG - processing packet with timestamp:3.339971
+2017-03-21 13:08:52,837 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,838 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,838 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,838 - root - DEBUG - processing packet with timestamp:3.449298
+2017-03-21 13:08:52,838 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,838 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,838 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,838 - root - DEBUG - processing packet with timestamp:3.569814
+2017-03-21 13:08:52,838 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,838 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,838 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,838 - root - DEBUG - processing packet with timestamp:3.572496
+2017-03-21 13:08:52,838 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,838 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,838 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,838 - root - DEBUG - processing packet with timestamp:3.690508
+2017-03-21 13:08:52,838 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,838 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,838 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,838 - root - DEBUG - processing packet with timestamp:3.79865
+2017-03-21 13:08:52,839 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,839 - root - DEBUG - New expected iat sampled: 0.257774123522
+2017-03-21 13:08:52,839 - root - DEBUG - processing packet with timestamp:3.799733
+2017-03-21 13:08:52,839 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,839 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,839 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,839 - root - DEBUG - processing packet with timestamp:3.811341
+2017-03-21 13:08:52,839 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,839 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,839 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,839 - root - DEBUG - processing packet with timestamp:3.811341
+2017-03-21 13:08:52,839 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,839 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,839 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,839 - root - DEBUG - processing packet with timestamp:4.006281
+2017-03-21 13:08:52,839 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,839 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,839 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,839 - root - DEBUG - processing packet with timestamp:4.006281
+2017-03-21 13:08:52,840 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,840 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,840 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,840 - root - DEBUG - processing packet with timestamp:4.007921
+2017-03-21 13:08:52,840 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,840 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,840 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,840 - root - DEBUG - processing packet with timestamp:4.334877
+2017-03-21 13:08:52,840 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,840 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,840 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,840 - root - DEBUG - processing packet with timestamp:4.334877
+2017-03-21 13:08:52,840 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,840 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,840 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,840 - root - DEBUG - processing packet with timestamp:4.334877
+2017-03-21 13:08:52,840 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,840 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,840 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,841 - root - DEBUG - processing packet with timestamp:4.334877
+2017-03-21 13:08:52,841 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,841 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,841 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,841 - root - DEBUG - processing packet with timestamp:4.334877
+2017-03-21 13:08:52,841 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,841 - root - DEBUG - New expected iat sampled: 0.0131388827673
+2017-03-21 13:08:52,841 - root - DEBUG - processing packet with timestamp:4.334877
+2017-03-21 13:08:52,841 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,841 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,841 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,841 - root - DEBUG - processing packet with timestamp:4.334877
+2017-03-21 13:08:52,841 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,841 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,841 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,841 - root - DEBUG - processing packet with timestamp:4.348564
+2017-03-21 13:08:52,841 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,841 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,841 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,842 - root - DEBUG - processing packet with timestamp:4.348564
+2017-03-21 13:08:52,842 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,842 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,842 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,842 - root - DEBUG - processing packet with timestamp:4.348564
+2017-03-21 13:08:52,842 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,842 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,842 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,842 - root - DEBUG - processing packet with timestamp:4.348564
+2017-03-21 13:08:52,842 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,842 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,842 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,842 - root - DEBUG - processing packet with timestamp:4.348564
+2017-03-21 13:08:52,842 - root - DEBUG - Stream State:burst
+2017-03-21 13:08:52,842 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:08:52,842 - root - DEBUG - Stream State:wait
+2017-03-21 13:08:52,843 - root - INFO - Length before: 49 | Length after: 49
+2017-03-21 13:08:52,843 - root - INFO - Bandwidth overhead: 1.0
+2017-03-21 13:13:25,864 - root - INFO - Starting AP simulation...
+2017-03-21 13:13:25,864 - root - INFO - Reading histograms from HistogramStats/bglist_0.1.txt
+2017-03-21 13:13:25,864 - root - DEBUG - Histogram tokens are: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4452, 2971, 1755, 617, 203, 90000, 0, 0, 0, 0, 0, 0, 0, 1934, 2301, 2045, 2316, 849, 369, 118, 64, 90000, 2015, 1900, 341, 254, 391, 652, 998, 1169, 1126, 1088, 61, 0, 0, 0, 0, 1811, 8463, 83, 154, 327, 430, 288, 204, 47, 0, 0, 0, 0, 0, 0, 0, 516]
+2017-03-21 13:13:25,865 - root - DEBUG - tokens:[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4452, 2971, 1755, 617, 203, 90000]
+labels:[0, 0.00018310546875, 0.0003662109375, 0.000732421875, 0.00146484375, 0.0029296875, 0.005859375, 0.01171875, 0.0234375, 0.046875, 0.09375, 0.1875, 0.375, 0.75, 1.5, 3]/n
+2017-03-21 13:13:25,865 - root - INFO - chunk idx (0): [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4452, 2971, 1755, 617, 203, 90000]
+2017-03-21 13:13:25,865 - root - DEBUG - tokens:[0, 0, 0, 0, 0, 0, 0, 1934, 2301, 2045, 2316, 849, 369, 118, 64, 90000]
+labels:[0, 0.00018310546875, 0.0003662109375, 0.000732421875, 0.00146484375, 0.0029296875, 0.005859375, 0.01171875, 0.0234375, 0.046875, 0.09375, 0.1875, 0.375, 0.75, 1.5, 3]/n
+2017-03-21 13:13:25,865 - root - INFO - chunk idx (1): [0, 0, 0, 0, 0, 0, 0, 1934, 2301, 2045, 2316, 849, 369, 118, 64, 90000]
+2017-03-21 13:13:25,865 - root - DEBUG - tokens:[2015, 1900, 341, 254, 391, 652, 998, 1169, 1126, 1088, 61, 0, 0, 0, 0, 1811]
+labels:[0, 0.00018310546875, 0.0003662109375, 0.000732421875, 0.00146484375, 0.0029296875, 0.005859375, 0.01171875, 0.0234375, 0.046875, 0.09375, 0.1875, 0.375, 0.75, 1.5, 3]/n
+2017-03-21 13:13:25,865 - root - INFO - chunk idx (2): [2015, 1900, 341, 254, 391, 652, 998, 1169, 1126, 1088, 61, 0, 0, 0, 0, 1811]
+2017-03-21 13:13:25,865 - root - DEBUG - tokens:[8463, 83, 154, 327, 430, 288, 204, 47, 0, 0, 0, 0, 0, 0, 0, 516]
+labels:[0, 0.00018310546875, 0.0003662109375, 0.000732421875, 0.00146484375, 0.0029296875, 0.005859375, 0.01171875, 0.0234375, 0.046875, 0.09375, 0.1875, 0.375, 0.75, 1.5, 3]/n
+2017-03-21 13:13:25,865 - root - INFO - chunk idx (3): [8463, 83, 154, 327, 430, 288, 204, 47, 0, 0, 0, 0, 0, 0, 0, 516]
+2017-03-21 13:13:25,865 - root - DEBUG - tokens:[100]
+labels:[0]/n
+2017-03-21 13:13:25,865 - root - DEBUG - tokens:[100]
+labels:[0]/n
+2017-03-21 13:13:25,865 - root - DEBUG - tokens:[100]
+labels:[0]/n
+2017-03-21 13:13:25,865 - root - DEBUG - tokens:[100]
+labels:[0]/n
+2017-03-21 13:13:25,866 - root - DEBUG - processing packet with timestamp:0.0
+2017-03-21 13:13:25,866 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,866 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,866 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,866 - root - DEBUG - processing packet with timestamp:0.050518
+2017-03-21 13:13:25,866 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,867 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,867 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,867 - root - DEBUG - processing packet with timestamp:2.435513
+2017-03-21 13:13:25,867 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,867 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,867 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,867 - root - DEBUG - processing packet with timestamp:2.437036
+2017-03-21 13:13:25,867 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,867 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,867 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,867 - root - DEBUG - processing packet with timestamp:2.66397
+2017-03-21 13:13:25,867 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,867 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,867 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,867 - root - DEBUG - processing packet with timestamp:2.664662
+2017-03-21 13:13:25,867 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,867 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,867 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,867 - root - DEBUG - processing packet with timestamp:2.785274
+2017-03-21 13:13:25,867 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,867 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,867 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,867 - root - DEBUG - processing packet with timestamp:2.78592
+2017-03-21 13:13:25,867 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,867 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,867 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,867 - root - DEBUG - processing packet with timestamp:3.006853
+2017-03-21 13:13:25,867 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,868 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,868 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,868 - root - DEBUG - processing packet with timestamp:3.006853
+2017-03-21 13:13:25,868 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,868 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,868 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,868 - root - DEBUG - processing packet with timestamp:3.006853
+2017-03-21 13:13:25,868 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,868 - root - DEBUG - New expected iat sampled: 0.01979301434
+2017-03-21 13:13:25,868 - root - DEBUG - processing packet with timestamp:3.006853
+2017-03-21 13:13:25,868 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,868 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,868 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,868 - root - DEBUG - processing packet with timestamp:3.006853
+2017-03-21 13:13:25,868 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,868 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,868 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,868 - root - DEBUG - processing packet with timestamp:3.006853
+2017-03-21 13:13:25,868 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,868 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,868 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,868 - root - DEBUG - processing packet with timestamp:3.006853
+2017-03-21 13:13:25,868 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,868 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,868 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,868 - root - DEBUG - processing packet with timestamp:3.012969
+2017-03-21 13:13:25,868 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,869 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,869 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,869 - root - DEBUG - processing packet with timestamp:3.026528
+2017-03-21 13:13:25,869 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,869 - root - DEBUG - New expected iat sampled: 0.101802962478
+2017-03-21 13:13:25,869 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,869 - root - DEBUG - processing packet with timestamp:3.127709
+2017-03-21 13:13:25,869 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,869 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,869 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,869 - root - DEBUG - processing packet with timestamp:3.127709
+2017-03-21 13:13:25,869 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,869 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,869 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,869 - root - DEBUG - processing packet with timestamp:3.127709
+2017-03-21 13:13:25,869 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,869 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,869 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,869 - root - DEBUG - processing packet with timestamp:3.127709
+2017-03-21 13:13:25,869 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,869 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,869 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,869 - root - DEBUG - processing packet with timestamp:3.127709
+2017-03-21 13:13:25,869 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,869 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,869 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,869 - root - DEBUG - processing packet with timestamp:3.127709
+2017-03-21 13:13:25,869 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,870 - root - DEBUG - New expected iat sampled: 0.176237226681
+2017-03-21 13:13:25,870 - root - DEBUG - processing packet with timestamp:3.127709
+2017-03-21 13:13:25,870 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,870 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,870 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,870 - root - DEBUG - processing packet with timestamp:3.12833096248
+2017-03-21 13:13:25,870 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,870 - root - DEBUG - New expected iat sampled: 0.00333019512421
+2017-03-21 13:13:25,870 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,870 - root - DEBUG - processing packet with timestamp:3.1316611576
+2017-03-21 13:13:25,870 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,870 - root - DEBUG - New expected iat sampled: 0.0205968110099
+2017-03-21 13:13:25,870 - root - DEBUG - processing packet with timestamp:3.132768
+2017-03-21 13:13:25,870 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,870 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,870 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,870 - root - DEBUG - processing packet with timestamp:3.139971
+2017-03-21 13:13:25,870 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,870 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,870 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,870 - root - DEBUG - processing packet with timestamp:3.249298
+2017-03-21 13:13:25,870 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,870 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,870 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,870 - root - DEBUG - processing packet with timestamp:3.369814
+2017-03-21 13:13:25,870 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,870 - root - DEBUG - New expected iat sampled: 0.0468893329319
+2017-03-21 13:13:25,871 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,871 - root - DEBUG - processing packet with timestamp:3.372496
+2017-03-21 13:13:25,871 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,871 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,871 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,871 - root - DEBUG - processing packet with timestamp:3.41670333293
+2017-03-21 13:13:25,871 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,871 - root - DEBUG - New expected iat sampled: 0.0086257530789
+2017-03-21 13:13:25,871 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,871 - root - DEBUG - processing packet with timestamp:3.42532908601
+2017-03-21 13:13:25,871 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,871 - root - DEBUG - New expected iat sampled: 2.07404367564e-05
+2017-03-21 13:13:25,871 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,871 - root - DEBUG - processing packet with timestamp:3.42534982645
+2017-03-21 13:13:25,871 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,871 - root - DEBUG - New expected iat sampled: 6.41085955575e-05
+2017-03-21 13:13:25,871 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,871 - root - DEBUG - processing packet with timestamp:3.42541393504
+2017-03-21 13:13:25,871 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,871 - root - DEBUG - New expected iat sampled: 0.00466159001467
+2017-03-21 13:13:25,871 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,871 - root - DEBUG - processing packet with timestamp:3.43007552506
+2017-03-21 13:13:25,871 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,871 - root - DEBUG - New expected iat sampled: 7.22293110087e-05
+2017-03-21 13:13:25,871 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,871 - root - DEBUG - processing packet with timestamp:3.43014775437
+2017-03-21 13:13:25,871 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,872 - root - DEBUG - New expected iat sampled: 0.00127389308874
+2017-03-21 13:13:25,872 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,872 - root - DEBUG - processing packet with timestamp:3.43142164746
+2017-03-21 13:13:25,872 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,872 - root - DEBUG - New expected iat sampled: 0.00235646727553
+2017-03-21 13:13:25,872 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,872 - root - DEBUG - processing packet with timestamp:3.43377811473
+2017-03-21 13:13:25,872 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,872 - root - DEBUG - New expected iat sampled: 5.10689312291e-05
+2017-03-21 13:13:25,872 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,872 - root - DEBUG - processing packet with timestamp:3.43382918366
+2017-03-21 13:13:25,872 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,872 - root - DEBUG - New expected iat sampled: 1.71847980815e-05
+2017-03-21 13:13:25,872 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,872 - root - DEBUG - processing packet with timestamp:3.43384636846
+2017-03-21 13:13:25,872 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,872 - root - DEBUG - New expected iat sampled: 0.00267016032404
+2017-03-21 13:13:25,872 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,872 - root - DEBUG - processing packet with timestamp:3.43651652879
+2017-03-21 13:13:25,872 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,872 - root - DEBUG - New expected iat sampled: 0.000243311790475
+2017-03-21 13:13:25,872 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,872 - root - DEBUG - processing packet with timestamp:3.43675984058
+2017-03-21 13:13:25,872 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,872 - root - DEBUG - New expected iat sampled: 3.106766261e-05
+2017-03-21 13:13:25,872 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,872 - root - DEBUG - processing packet with timestamp:3.43679090824
+2017-03-21 13:13:25,873 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,873 - root - DEBUG - New expected iat sampled: 0.00124790225729
+2017-03-21 13:13:25,873 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,873 - root - DEBUG - processing packet with timestamp:3.4380388105
+2017-03-21 13:13:25,873 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,873 - root - DEBUG - New expected iat sampled: 0.000131938522519
+2017-03-21 13:13:25,873 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,873 - root - DEBUG - processing packet with timestamp:3.43817074902
+2017-03-21 13:13:25,873 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,873 - root - DEBUG - New expected iat sampled: 5.40372654493e-05
+2017-03-21 13:13:25,873 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,873 - root - DEBUG - processing packet with timestamp:3.43822478628
+2017-03-21 13:13:25,873 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,873 - root - DEBUG - New expected iat sampled: 3.32442022364e-05
+2017-03-21 13:13:25,873 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,873 - root - DEBUG - processing packet with timestamp:3.43825803049
+2017-03-21 13:13:25,873 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,873 - root - DEBUG - New expected iat sampled: 9.51572603493e-05
+2017-03-21 13:13:25,873 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,873 - root - DEBUG - processing packet with timestamp:3.43835318775
+2017-03-21 13:13:25,873 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,873 - root - DEBUG - New expected iat sampled: 4.54085872058e-05
+2017-03-21 13:13:25,873 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,873 - root - DEBUG - processing packet with timestamp:3.43839859633
+2017-03-21 13:13:25,873 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,873 - root - DEBUG - New expected iat sampled: 0.00014242668813
+2017-03-21 13:13:25,873 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,874 - root - DEBUG - processing packet with timestamp:3.43854102302
+2017-03-21 13:13:25,874 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,874 - root - DEBUG - New expected iat sampled: 0.000164990487459
+2017-03-21 13:13:25,874 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,874 - root - DEBUG - processing packet with timestamp:3.43870601351
+2017-03-21 13:13:25,874 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,874 - root - DEBUG - New expected iat sampled: 7.35595911147e-05
+2017-03-21 13:13:25,874 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,874 - root - DEBUG - processing packet with timestamp:3.4387795731
+2017-03-21 13:13:25,874 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,874 - root - DEBUG - New expected iat sampled: 6.42682405076e-05
+2017-03-21 13:13:25,874 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,874 - root - DEBUG - processing packet with timestamp:3.43884384134
+2017-03-21 13:13:25,874 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,874 - root - DEBUG - New expected iat sampled: 0.000133051415187
+2017-03-21 13:13:25,874 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,874 - root - DEBUG - processing packet with timestamp:3.43897689276
+2017-03-21 13:13:25,874 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,874 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,874 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,874 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,874 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,874 - root - DEBUG - processing packet with timestamp:3.490508
+2017-03-21 13:13:25,874 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,874 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,874 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,874 - root - DEBUG - processing packet with timestamp:3.59865
+2017-03-21 13:13:25,875 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,875 - root - DEBUG - New expected iat sampled: 0.0573247421103
+2017-03-21 13:13:25,875 - root - DEBUG - processing packet with timestamp:3.599733
+2017-03-21 13:13:25,875 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,875 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,875 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,875 - root - DEBUG - processing packet with timestamp:3.611341
+2017-03-21 13:13:25,875 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,875 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,875 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,875 - root - DEBUG - processing packet with timestamp:3.611341
+2017-03-21 13:13:25,875 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,875 - root - DEBUG - New expected iat sampled: 0.016072009666
+2017-03-21 13:13:25,875 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,875 - root - DEBUG - processing packet with timestamp:3.62741300967
+2017-03-21 13:13:25,875 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,875 - root - DEBUG - New expected iat sampled: 8.99620242025e-05
+2017-03-21 13:13:25,875 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,875 - root - DEBUG - processing packet with timestamp:3.62750297169
+2017-03-21 13:13:25,875 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,875 - root - DEBUG - New expected iat sampled: 4.69689243891e-05
+2017-03-21 13:13:25,875 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,875 - root - DEBUG - processing packet with timestamp:3.62754994061
+2017-03-21 13:13:25,875 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,875 - root - DEBUG - New expected iat sampled: 0.000104708875182
+2017-03-21 13:13:25,875 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,875 - root - DEBUG - processing packet with timestamp:3.62765464949
+2017-03-21 13:13:25,875 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,876 - root - DEBUG - New expected iat sampled: 8.93283058413e-05
+2017-03-21 13:13:25,876 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,876 - root - DEBUG - processing packet with timestamp:3.6277439778
+2017-03-21 13:13:25,876 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,876 - root - DEBUG - New expected iat sampled: 5.18625540777e-05
+2017-03-21 13:13:25,876 - root - DEBUG - Adding padding message into stream.
+2017-03-21 13:13:25,876 - root - DEBUG - processing packet with timestamp:3.62779584035
+2017-03-21 13:13:25,876 - root - DEBUG - Stream State:gap
+2017-03-21 13:13:25,876 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,876 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,876 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,876 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,876 - root - DEBUG - processing packet with timestamp:3.806281
+2017-03-21 13:13:25,876 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,876 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,876 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,876 - root - DEBUG - processing packet with timestamp:3.806281
+2017-03-21 13:13:25,876 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,876 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,876 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,876 - root - DEBUG - processing packet with timestamp:3.807921
+2017-03-21 13:13:25,876 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,876 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,876 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,876 - root - DEBUG - processing packet with timestamp:4.134877
+2017-03-21 13:13:25,876 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,876 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,877 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,877 - root - DEBUG - processing packet with timestamp:4.134877
+2017-03-21 13:13:25,877 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,877 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,877 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,877 - root - DEBUG - processing packet with timestamp:4.134877
+2017-03-21 13:13:25,877 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,877 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,877 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,877 - root - DEBUG - processing packet with timestamp:4.134877
+2017-03-21 13:13:25,877 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,877 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,877 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,877 - root - DEBUG - processing packet with timestamp:4.134877
+2017-03-21 13:13:25,877 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,877 - root - DEBUG - New expected iat sampled: 0.0413646868563
+2017-03-21 13:13:25,877 - root - DEBUG - processing packet with timestamp:4.134877
+2017-03-21 13:13:25,877 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,877 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,877 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,877 - root - DEBUG - processing packet with timestamp:4.134877
+2017-03-21 13:13:25,877 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,877 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,877 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,877 - root - DEBUG - processing packet with timestamp:4.148564
+2017-03-21 13:13:25,877 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,878 - root - DEBUG - New expected iat sampled: 0.019463553772
+2017-03-21 13:13:25,878 - root - DEBUG - processing packet with timestamp:4.148564
+2017-03-21 13:13:25,878 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,878 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,878 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,878 - root - DEBUG - processing packet with timestamp:4.148564
+2017-03-21 13:13:25,878 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,878 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,878 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,878 - root - DEBUG - processing packet with timestamp:4.148564
+2017-03-21 13:13:25,878 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,878 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,878 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,878 - root - DEBUG - processing packet with timestamp:4.148564
+2017-03-21 13:13:25,878 - root - DEBUG - Stream State:burst
+2017-03-21 13:13:25,878 - root - DEBUG - New expected iat sampled: 1000000
+2017-03-21 13:13:25,878 - root - DEBUG - Stream State:wait
+2017-03-21 13:13:25,879 - root - INFO - Length before: 49 | Length after: 81
+2017-03-21 13:13:25,879 - root - INFO - Bandwidth overhead: 1.65306122449
