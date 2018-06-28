@@ -1,0 +1,3 @@
+individual_subsampling:
+subsampling number: 10
+monte carlo number: 5000

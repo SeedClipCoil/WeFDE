@@ -1,0 +1,13 @@
+subsampling:
+packet number 
+ordering
+burst
+
+num: 50; monte carlo number: 5000;
+reModel_krate: 0.5
+
+
+bootstrap:
+num:50; monte carlo number: 5000
+first 20 packets
+

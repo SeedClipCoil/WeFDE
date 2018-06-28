@@ -1,0 +1,4 @@
+ent_*.mat           the direct entropy measurement (without bootstraping)
+ent_bs_*.mat        the bootstrap variations (without ent_*.mat)
+
+
